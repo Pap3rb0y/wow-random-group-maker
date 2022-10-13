@@ -7,6 +7,7 @@ end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem 'minitest', '~> 5.8', '>= 5.8.4'
 gem 'rails', '~> 5.1.6', '>= 5.1.6.1'
 gem "actionview", ">= 5.1.6.2"
 gem 'bundler-audit'
